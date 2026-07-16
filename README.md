@@ -26,10 +26,11 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
     <!-- Left Column: Metrics -->
+    <!--
     <div style="flex: 1; max-width: 45%;">
         <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/mamagarage/mamagarage/blob/main/github-metrics.svg">
     </div>
-
+    -->
 
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
