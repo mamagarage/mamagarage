@@ -38,12 +38,14 @@
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
             </a>
             </a>
+            <!--
             <a href="https://www.youtube.com/@OfficialCodeVoyage" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube">
             </a>
             <a href="https://www.instagram.com/pasha.369.bond/" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
             </a>
+            -->
         </p>
         
   <h3>✨ Fun Facts</h3>
