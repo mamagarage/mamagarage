@@ -15,6 +15,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Metrics embed
+      uses: lowlighter/metrics@v3.34
+    
     - name: Checkout repository
       uses: actions/checkout@v2
 
