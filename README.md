@@ -1,8 +1,10 @@
 [![Alt text](kwork_PavloBondarenko_12.jpg)](https://pavlobondarenko.net)
 
 <h1 align="center">Hi, I'm Marco Mangia! 👋 </h1>
+<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
-
+-->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mamagarage.visitor-badge&left_color=royalblue&right_color=black"  />
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
