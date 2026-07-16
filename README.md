@@ -1,6 +1,6 @@
 [![Alt text](kwork_PavloBondarenko_12.jpg)](https://pavlobondarenko.net)
 
-<h1 align="center">Hi, I'm Pavlo Bondarenko! 👋 </h1>
+<h1 align="center">Hi, I'm Marco Mangia! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
@@ -41,7 +41,7 @@
         
   <h3>✨ Fun Facts</h3>
         <ul>
-            <li>I love Hackathons, Swimming and Tennis.</li>
+            <li>I love Coding, Math tricks and Calisthenics.</li>
             <li>I’m on a journey to build a big house in Alaska!</li>
             <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
             <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
