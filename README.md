@@ -59,9 +59,9 @@
         
   <h3>🧑‍💻 About Me</h3>
         <p>
-            I'm a passionate software developer with a strong background in cloud computing, game development, and full-stack web development. 
+            I'm a seasoned software developer with a strong background in .Net technologies, software architectures, and mostly backend development. 
             I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
-            in physical activities like swimming and judo, or planning my next adventure. 
+            in physical activities like calisthenics and total body work-out, or with my loyal partner.. the bicycle. 
         </p>
         <p>
             My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
