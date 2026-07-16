@@ -6,14 +6,14 @@
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
+  <!--
   <a href="https://skillicons.dev">
-    <!--
     <img src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" alt="Skills and tools"/>
-    -->
     <img src="https://skillicons.dev/icons?i=cs,docker,git,github,js,postgres,dotnet," alt="Skills and tools"/>
   </a>
+  -->  
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,angular,api,dapper" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,angular,api,dapper,typescript,javascript" />
   </a>
 </p>
 
