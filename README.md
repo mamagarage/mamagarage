@@ -12,8 +12,10 @@
     -->
     <img src="https://skillicons.dev/icons?i=cs,docker,git,github,js,postgres,dotnet," alt="Skills and tools"/>
   </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,angular,api,dapper" />
+  </a>
 </p>
-
 
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
