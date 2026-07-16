@@ -52,9 +52,9 @@
   <h3>✨ Fun Facts</h3>
         <ul>
             <li>I love Coding, Math tricks and Calisthenics.</li>
-            <li>I’m on a journey to build a big house in Alaska!</li>
+            <li>I’m planning a new life in Asia</li>
             <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
-            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
+            <li>In my free time I try to stay healthy or live the present</li>
         </ul>
         
   <h3>🧑‍💻 About Me</h3>
